@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-09T06:29:24.861Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h3sPgKjwqPH_unEmmspj" version="20.2.6" type="github">
+<mxfile modified="2023-11-09T06:41:04.720Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oXurquP4UK24F8TBskod" version="20.2.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1714" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -153,17 +153,21 @@
           <mxGeometry x="1369" y="82" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="qCHxvGOC20CsXL5F3RMV-48" value="TrainingCompleteCheck&lt;br&gt;Lambda&lt;br&gt;- &lt;i&gt;Add entries from updated list to&amp;nbsp;&lt;br&gt;the previous list so it doesn&#39;t&amp;nbsp;&lt;br&gt;train the model again&lt;/i&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="96" width="78" height="78" as="geometry" />
+          <mxGeometry x="1030" y="96" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="qCHxvGOC20CsXL5F3RMV-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1351" y="134.5" as="sourcePoint" />
-            <mxPoint x="1291" y="134.5" as="targetPoint" />
+            <mxPoint x="1130" y="135" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="135" />
+              <mxPoint x="1180" y="135" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qCHxvGOC20CsXL5F3RMV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="137" as="sourcePoint" />
+            <mxPoint x="1020" y="137" as="sourcePoint" />
             <mxPoint x="590" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
